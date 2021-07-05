@@ -1,0 +1,13 @@
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.exe
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.deps.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.runtimeconfig.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.runtimeconfig.dev.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\bin\Debug\netcoreapp3.1\VirtualPet.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.csproj.AssemblyReference.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.AssemblyInfoInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.AssemblyInfo.cs
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.csproj.CoreCompileInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\VirtualPet\VirtualPet\obj\Debug\netcoreapp3.1\VirtualPet.genruntimeconfig.cache

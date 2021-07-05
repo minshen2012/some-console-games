@@ -6,7 +6,8 @@ namespace VirtualPet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            World myWorld = new World();
+            myWorld.Run();
         }
     }
 }

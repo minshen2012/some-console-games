@@ -1,0 +1,13 @@
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.exe
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.AssemblyReference.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache

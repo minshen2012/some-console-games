@@ -11,21 +11,16 @@ namespace DiceGame
             // - IF conditionals
             // - Switch statements
 
-            Random myRandGenerator = new Random();
+            /*Random myRandGenerator = new Random();
             int randNumber = myRandGenerator.Next(1, 7);
             WriteLine($"num {randNumber}");
 
-            if (randNumber <= 3)
-            {
-                WriteLine("you got low");
-            }
-            else
-            {
-                WriteLine("you didn't get it");
-            }
-
+          
             WriteLine("Press any key to exit...");
-            ReadKey();
+            ReadKey();*/
+
+            DiceG myGame = new DiceG();
+            myGame.Start();
         }
     }
 }

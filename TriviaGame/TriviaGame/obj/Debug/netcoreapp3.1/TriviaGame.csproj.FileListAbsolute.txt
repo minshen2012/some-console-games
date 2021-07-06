@@ -1,0 +1,13 @@
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.exe
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.deps.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.runtimeconfig.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.runtimeconfig.dev.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\bin\Debug\netcoreapp3.1\TriviaGame.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.csproj.AssemblyReference.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.AssemblyInfoInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.AssemblyInfo.cs
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\TriviaGame\TriviaGame\obj\Debug\netcoreapp3.1\TriviaGame.genruntimeconfig.cache

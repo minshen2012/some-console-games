@@ -26,9 +26,37 @@ namespace ExplorableWorld
                 {
                     string element = Grid[y, x];
                     SetCursorPosition(x, y);
+
+                    if(element == "X")
+                    {
+                        ForegroundColor = ConsoleColor.Green;
+                    }
+                    else
+                    {
+                        ForegroundColor = ConsoleColor.White;
+                    }
+
                     Write(element);
                 }
             }
+        }
+
+        public string GetElementAt(int x, int y)
+        {
+            return Grid[y, x];
+        }
+
+        public bool IsPositionWalkable(int x, int y)
+        {
+            //CHeck bounds first.
+            if (x < 0 || y < 0 || x >= Cols || y >= Rows)
+            {
+                return false;
+            }
+
+            //Check if the grid is a walkable tile.
+            return Grid[y, x] == " " || Grid[y, x] == "X";
+
         }
     }
 }

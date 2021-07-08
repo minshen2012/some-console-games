@@ -1,0 +1,13 @@
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.exe
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.deps.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.runtimeconfig.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.runtimeconfig.dev.json
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\bin\Debug\netcoreapp3.1\ExplorableWorld.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.csproj.AssemblyReference.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.AssemblyInfoInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.AssemblyInfo.cs
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.csproj.CoreCompileInputs.cache
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.dll
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.pdb
+C:\Users\KMS\Desktop\youtube course\learnc\csharp_consoleApp\ExplorableWorld\ExplorableWorld\obj\Debug\netcoreapp3.1\ExplorableWorld.genruntimeconfig.cache
